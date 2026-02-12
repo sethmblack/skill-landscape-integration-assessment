@@ -1,12 +1,10 @@
 ---
 name: landscape-integration-assessment
-description: Evaluate how well a design integrates with its site and context—treating
-  buildings as artificial topographies that should flow with landscape rather than
-  objects placed upon it. Based on Zaha Hadid...
+description: Evaluate how well a design integrates with its site and context—treating buildings as artificial topographies that should flow with landscape rather than objects placed upon it. Based on Zaha Hadid...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - landscape-integration-assessment
 - writing
